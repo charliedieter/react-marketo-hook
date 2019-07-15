@@ -1,0 +1,47 @@
+{
+  "name": "react-marketo-hook",
+  "version": "1.0.0",
+  "description": "An implementation of a marketo forms client using the react hooks api.",
+  "main": "example.js",
+  "scripts": {
+    "start": "webpack-dev-server --config ./webpack.config.js --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlieDieter/react-marketo-hook.git"
+  },
+  "keywords": [
+    "marketo",
+    "react",
+    "react",
+    "hooks",
+    "hooks",
+    "marketo",
+    "marketo",
+    "forms",
+    "marketo",
+    "forms",
+    "2",
+    "MktoForms2",
+    "MktoForms"
+  ],
+  "author": "Charlie Dieter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharlieDieter/react-marketo-hook/issues"
+  },
+  "homepage": "https://github.com/CharlieDieter/react-marketo-hook#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.4",
+    "@babel/preset-env": "^7.5.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.35.3",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
