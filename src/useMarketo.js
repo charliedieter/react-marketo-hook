@@ -18,7 +18,7 @@ function useMarketo({ baseUrl, munchkinId, formId, callback }) {
       return;
     }
     appendScript(baseUrl, setScriptLoaded);
-  }, [scriptLoaded]);
+  }, [scriptLoaded, baseUrl, munchkinId, formId, callback]);
 }
 
 export default useMarketo;
