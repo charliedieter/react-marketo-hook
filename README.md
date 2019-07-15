@@ -1,2 +1,3 @@
 `npm install && npm start`
-8080
+
+open 8080
